@@ -18,7 +18,7 @@ function preload(){
 
 function setup() {
   strokeWeight(6)
-  createCanvas(600,600);
+  createCanvas(700,600);
 
  engine = Engine.create();
  world = engine.world;
